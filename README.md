@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Nico!</h1>
-<h3 align="center">A developer from Italy who loves coding and learning new things</h3>
+<h3 align="center">A passionate developer from Italy</h3>
 
 ---
 
 ### 🚀 About Me:
-- 💻 I mainly work with **Angular, TypeScript, PHP, and Node.js**
-- 🌱 I’m currently developing with **Angular, Typescript, PHP, Node.js**
-- 👨‍💻 Check out my projects on [my portfolio](https://nicodidonna-webdeveloper.web.app/)
-- 📫 Reach me at **nico_didonna@yahoo.it**
+<p align="center">
+  💻 I mainly work with <b>Angular and PHP</b> <br>
+  👨‍💻 Check out my projects on <a href="https://nicodidonna-webdeveloper.web.app/">my portfolio</a> <br>
+  📫 Reach me at <b>nico_didonna@yahoo.it</b>
+</p>
 
 ---
 
@@ -24,6 +25,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicodidonna&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages" width="42%" />
 </p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nicodidonna" alt="Profile Views" />
 </p>
